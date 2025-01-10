@@ -1,6 +1,6 @@
 {
     "branches": {
-                "release": { "type": "release" },
+        "release": { "type": "release" },
         "april": {
             "type": "all",
             "versions": [
