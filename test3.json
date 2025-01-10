@@ -1,0 +1,11 @@
+{
+    "branches": {
+        "release": {
+            "type": "all",
+            "versions": [
+                "1.21.4",
+                "25w02a"
+            ]
+        }
+    }
+}
