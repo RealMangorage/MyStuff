@@ -1,6 +1,8 @@
 {
     "branches": {
-        "release": {
+        "dev":     { "type": "all" },
+        "release": { "type": "release" },
+        "april": {
             "type": "all",
             "start": "1.21.4",
             "end": "25w02a",
